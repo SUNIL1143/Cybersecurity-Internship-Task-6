@@ -1,7 +1,7 @@
 # Cybersecurity-Internship-Task-6
 Report and analysis for Task 6 of the Elevate Labs Cyber Security Internship, focusing on password strength evaluation and security best practices.
 
-# **Task 6: Password Strength Analysis Report**
+# **Task 6: Create a Strong Password and Evaluate Its Strength Analysis Report**
 
 ## **1\. Objective**
 
